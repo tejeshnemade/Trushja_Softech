@@ -1101,12 +1101,12 @@ section {
   border-bottom: 1px solid #eceff0;
   overflow: hidden;
   background: #fff;
-  height: 120px;
+  height: 160px;
   padding: 40px;
 }
 
 .clients .client-logo img {
-  max-width: 50%;
+  max-width: 47%;
   filter: grayscale(100);
 }
 
@@ -1505,7 +1505,7 @@ section {
 }
 
 #footer .footer-top {
-  background: #CE375C;
+  background: #ce375c;
   padding: 60px 0 30px 0;
   border-top: 2px solid #e9ecee;
   border-bottom: 2px solid #e9ecee;
@@ -1547,7 +1547,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #64C3EB;
+  background: #64c3eb;
   color: #fff;
   text-decoration: none;
 }
